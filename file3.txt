@@ -1,1 +1,1 @@
-This is file 3 \n and some other line
+This is file 3
