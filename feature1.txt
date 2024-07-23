@@ -6,4 +6,4 @@ const fn =()=>{
     some function huohiuhiuuhiuhiuhiuhiuhi
 }
 
-this is feature1
+this is feature 2
