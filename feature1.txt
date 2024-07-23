@@ -1,7 +1,10 @@
 conflict 1
 
 
+
 this is a new feature
 const fn =()=>{
     some function huohiuhiuuhiuhiuhiuhiuhi
 }
+
+this is feature 1
