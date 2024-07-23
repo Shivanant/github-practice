@@ -6,5 +6,4 @@ const fn =()=>{
     some function huohiuhiuuhiuhiuhiuhiuhi
 }
 
-
 this is feature 2
